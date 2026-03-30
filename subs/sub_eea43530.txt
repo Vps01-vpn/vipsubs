@@ -1,0 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfTjRTS0ExbEFkSzh1OFlPaVJESG9B@93.183.82.149:1080#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%91%8B%20Salam%3A%20cvytW1%20%F0%9F%91%A4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfTjRTS0ExbEFkSzh1OFlPaVJESG9B@93.183.82.149:1080#%F0%9F%87%AA%F0%9F%87%BA%20Galdy%3A%20%F0%9F%93%8A%201000.0%20GB%20%20/%20%E2%88%9E%20%F0%9F%93%85%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfTjRTS0ExbEFkSzh1OFlPaVJESG9B@93.183.82.149:1080#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20//%20GamingCore%C2%B0%20%3C60ms%3E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfTjRTS0ExbEFkSzh1OFlPaVJESG9B@185.73.39.19:1080#%F0%9F%87%AC%F0%9F%87%A7%20London%20//%20ShadowRight
+vless://fccfaf84-c414-4aac-a178-f017a43f068e@18.245.54.66:443?security=tls&type=ws&headerType=&path=%2F&host=d18otx2lhj3ef1.cloudfront.net&sni=127.0.0.1&fp=chrome&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Strasbourg%20//%20CloudKey%20
+vless://fccfaf84-c414-4aac-a178-f017a43f068e@104.21.19.120:443?security=tls&type=ws&headerType=&path=%2F&host=cool.servicecf.ru&sni=cool.servicecf.ru&fp=chrome&alpn=h2&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Toronto%20//%20ionPath
+vless://fccfaf84-c414-4aac-a178-f017a43f068e@google.com:443?security=tls&type=ws&headerType=&path=%2F&host=ymamgoogle-1005195065836.europe-west3.run.app&sni=google.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Stambul%20//%20GoogleKey
